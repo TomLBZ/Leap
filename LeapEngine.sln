@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeapApp", "LeapApp\LeapApp.vcxproj", "{E045FEDD-84B6-43D0-BBB9-CFDB22968B75}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leap", "Leap\Leap.vcxproj", "{76713E3D-814B-4813-A93B-C8A1E26D5FB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{E045FEDD-84B6-43D0-BBB9-CFDB22968B75}.Debug|x64.Build.0 = Debug|x64
 		{E045FEDD-84B6-43D0-BBB9-CFDB22968B75}.Release|x64.ActiveCfg = Release|x64
 		{E045FEDD-84B6-43D0-BBB9-CFDB22968B75}.Release|x64.Build.0 = Release|x64
+		{76713E3D-814B-4813-A93B-C8A1E26D5FB9}.Debug|x64.ActiveCfg = Debug|x64
+		{76713E3D-814B-4813-A93B-C8A1E26D5FB9}.Debug|x64.Build.0 = Debug|x64
+		{76713E3D-814B-4813-A93B-C8A1E26D5FB9}.Release|x64.ActiveCfg = Release|x64
+		{76713E3D-814B-4813-A93B-C8A1E26D5FB9}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
