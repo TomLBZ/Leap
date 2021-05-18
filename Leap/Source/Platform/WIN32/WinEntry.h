@@ -8,7 +8,14 @@ int CALLBACK WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT)
 
 	auto EntryApp = EntryApplication();
 
+	PerGameSettings GameSettings;
+	EntryApp->SetupPerGameSettings();
+
+	Logger logger;
+
 	EntryApp->Initialize();
+
+
 
 	MSG msg = { 0 };
 	while (msg.message != WM_QUIT)

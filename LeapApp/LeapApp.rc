@@ -113,6 +113,7 @@ STRINGTABLE
 BEGIN
     IDS_PERGAMENAME         "Leap App"
     IDS_WINDOWCLASS         "GameWindow"
+    IDS_SHORTNAME           "LA"
 END
 
 #endif    // English (United States) resources

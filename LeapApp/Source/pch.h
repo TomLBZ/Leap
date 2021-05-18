@@ -8,3 +8,5 @@
 #define HInstance()	GetModuleHandle(NULL)
 
 #include "Leap.h"
+
+#include "Common/Logger.h"
